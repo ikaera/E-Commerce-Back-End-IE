@@ -26,7 +26,7 @@ router.get("/:id", async (req, res) => {
       ],
     });
     if (!productData) {
-      res.status(404).json({ message: "No location found wiht this id!" });
+      res.status(404).json({ message: "No product found wiht this id!" });
       return;
     }
   } catch (err) {
