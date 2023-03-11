@@ -53,7 +53,10 @@
 
 ## Usage
 
-- ## A walkthrough video:
+- A walkthrough video:
+
+  - https://drive.google.com/file/d/1aWPKahD1Y0pmRJ7mBNtedeLijqwwBp7V/view
+
 - The URL of the GitHub repository:
   - https://github.com/ikaera/E-Commerce-Back-End-IE
 
