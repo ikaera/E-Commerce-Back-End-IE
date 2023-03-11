@@ -1,5 +1,7 @@
 # E-Commerce Back End-IE
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 ### User Story
@@ -79,9 +81,11 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well. -->
 
-## License
+## License: MIT
 
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2023 Irakli Eradze [IE]
 
 <!-- Copyright (c) 2023 Irakli Eradze [IE]
 
@@ -97,7 +101,7 @@ The last section of a high-quality README file is the license. This lets other d
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time. -->
 
-If your project has a lot of features, list them here.
+<!-- If your project has a lot of features, list them here. -->
 
 <!-- ## How to Contribute
 
